@@ -21,6 +21,7 @@
     {
         private static void Example1()
         {
+
             //Covariance : an instance of more derived type object/class to be assign to less derived type object or class.
             //Pass derive type where base type expected
             Small sm1 = new Small();
